@@ -1,1 +1,6 @@
-img/
+ ![](imgignore.PNG)(imgignore.PNG/
+**bin
+**obj
+**.vs
+**packages
+**/csproj.user
